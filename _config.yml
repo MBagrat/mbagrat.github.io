@@ -22,7 +22,7 @@ authors:
     sal:
       name:           Bagrat
       site:           https://www.mbagrat.github.io
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Bagrat, the author of the blog you're currently previewing. I hope you like it!"
       email:          bagrat.mukaelyan@gmail.com
       twitter:        https://twitter.com/bagratmukaelyan
